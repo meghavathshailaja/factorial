@@ -17,8 +17,6 @@ public class Factorial {
         int number = 5;
         System.out.println("Factorial of " + number + " is " + compute(number));
     }
-<<<<<<< HEAD
+
 }
-=======
-}
->>>>>>> 5d98c23 (third)
+
